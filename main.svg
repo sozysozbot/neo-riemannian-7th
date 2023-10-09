@@ -3,28 +3,79 @@
         <g>
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
             <text x="0" y="-15" font-size="50" text-anchor="middle" fill="#04f">Dm</text>
+            <g transform="translate(0 -5)">
+                <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
+                <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">F</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#04f">A</text>
+                <path d="M 0 45 l -15 10 l -15 -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 0 45 v 10 h 30 v -10" stroke="#04f" stroke-width="3" fill="none" />
+            </g>
         </g>
 
         <g transform="translate(0 -350)">
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
             <text x="0" y="-15" font-size="40" text-anchor="middle" fill="#04f">B♭M7</text>
+            <g transform="translate(-15 0)">
+                <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#f35">B♭</text>
+                <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#04f">F</text>
+                <text x="60" y="35" font-size="25" text-anchor="middle" fill="#04f">A</text>
+                <path d="M -35 13 l -15 -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 v 10 h -30 v -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 l 15 10 l 15 -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 30 45 v 10 h 30 v -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 65 13 l 15 -10" stroke="#f35" stroke-width="3" fill="none" />
+            </g>
         </g>
 
         <g transform="translate(303.108891325 -175)">
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
-            <text x="0" y="-30" font-size="40" text-anchor="middle" fill="#04f">Bø</text>
-            <text x="0" y="10" font-size="40" text-anchor="middle" fill="#04f">Bm7♭5</text>
+            <text x="0" y="-36" font-size="40" text-anchor="middle" fill="#04f">Bø</text>
+            <text x="0" y="3" font-size="40" text-anchor="middle" fill="#04f">Bm7♭5</text>
+            <g transform="translate(-15 3)">
+                <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#f35">B</text>
+                <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#04f">F</text>
+                <text x="60" y="35" font-size="25" text-anchor="middle" fill="#04f">A</text>
+                <path d="M -35 13 v -7 h -15" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 l -15 10 l -15 -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 l 15 10 l 15 -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 30 45 v 10 h 30 v -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 65 13 v -7 h 15" stroke="#f35" stroke-width="3" fill="none" />
+            </g>
         </g>
 
         <g transform="translate(303.108891325 175)">
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
             <text x="0" y="-15" font-size="40" text-anchor="middle" fill="#04f">Dm7</text>
+            <g transform="translate(-15 -5)">
+                <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
+                <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">F</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#04f">A</text>
+                <text x="60" y="35" font-size="25" text-anchor="middle" fill="#f35">C</text>
+                <path d="M -35 13 v -7 h -15" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 l -15 10 l -15 -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 0 45 v 10 h 30 v -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 30 45 l 15 10 l 15 -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 65 13 v -7 h 15" stroke="#f35" stroke-width="3" fill="none" />
+            </g>
         </g>
 
 
         <g transform="translate(0 350)">
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
             <text x="0" y="-15" font-size="40" text-anchor="middle" fill="#04f">DmM7</text>
+            <g transform="translate(-15 -5)">
+                <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
+                <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">F</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#04f">A</text>
+                <text x="60" y="35" font-size="25" text-anchor="middle" fill="#f35">C♯</text>
+                <path d="M -35 13 l -15 -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 0 45 l -15 10 l -15 -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 0 45 v 10 h 30 v -10" stroke="#04f" stroke-width="3" fill="none" />
+                <path d="M 31 45 v 10 h 30 v -10" stroke="#f35" stroke-width="3" fill="none" />
+                <path d="M 65 13 l 15 -10" stroke="#f35" stroke-width="3" fill="none" />
+            </g>
         </g>
 
         <g>
@@ -32,7 +83,7 @@
             <g transform="translate(0 -75)">
                 <text style="font-weight: bold;" x="-45" y="260" font-size="40" text-anchor="middle"
                     fill="#6cf">C♯</text>
-                <text style="font-weight: bold;" y="240" font-size="30" fill="#6cf">
+                <text style="font-weight: bold;" y="220" font-size="25" fill="#6cf">
                     <tspan x="20" dy="0">5th側</tspan>
                     <tspan x="20" dy="60">長三</tspan>
                 </text>
@@ -46,7 +97,7 @@
                     text-anchor="middle" fill="#6cf">C</text>
             </g>
         </g>
-        <text style="font-weight: bold;" transform="translate(110 -190)" y="240" font-size="30" fill="#6cf">
+        <text style="font-weight: bold;" transform="translate(110 -190)" y="240" font-size="25" fill="#6cf">
             <tspan x="30" dy="0">5th側</tspan>
             <tspan x="80" dy="40">短三</tspan>
         </text>
@@ -58,7 +109,7 @@
                     text-anchor="middle" fill="#6cf">B</text>
             </g>
         </g>
-        <text style="font-weight: bold;" transform="translate(80 -380)" y="240" font-size="30" fill="#6cf">
+        <text style="font-weight: bold;" transform="translate(80 -380)" y="240" font-size="25" fill="#6cf">
             <tspan x="30" dy="0">Rt側</tspan>
             <tspan x="0" dy="40">短三</tspan>
         </text>
@@ -69,9 +120,9 @@
         </g>
         <g transform="translate(0 -425)">
             <text style="font-weight: bold;" x="40" y="260" font-size="40" text-anchor="middle" fill="#6cf">B♭</text>
-            <text style="font-weight: bold;" y="240" font-size="30" fill="#6cf">
-                <tspan x="-90" dy="0">Rt側</tspan>
-                <tspan x="-90" dy="60">長三</tspan>
+            <text style="font-weight: bold;" y="240" font-size="25" fill="#6cf">
+                <tspan x="-75" dy="0">Rt側</tspan>
+                <tspan x="-75" dy="50">長三</tspan>
             </text>
         </g>
     </g>
