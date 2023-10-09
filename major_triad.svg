@@ -1,5 +1,7 @@
 <svg version="1.1" viewBox="-500 -350 500 1000" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(-150 100)">
+        <path stroke-dasharray="10,5" d="M 0 -350 a 350 350 0 0 0 0 700" fill="none" stroke="#f9a" stroke-width="10" />
+
         <g>
             <circle cx="0" cy="0" r="80" stroke="#6cf" stroke-width="6" fill="#ff9" />
             <text x="0" y="-15" font-size="50" text-anchor="middle" fill="#04f">G</text>
