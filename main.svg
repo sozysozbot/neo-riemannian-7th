@@ -151,7 +151,7 @@
                 <text x="-60" y="35" font-size="25" text-anchor="middle" fill="#04f">G</text>
                 <text x="-30" y="35" font-size="25" text-anchor="middle" fill="#04f">B</text>
                 <text x="0" y="35" font-size="25" text-anchor="middle" fill="#04f">D</text>
-                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#f35">F</text>
+                <text x="30" y="35" font-size="25" text-anchor="middle" fill="#f35">F♯</text>
                 <path d="M 35 13 l 15 -10" stroke="#f35" stroke-width="3" fill="none" />
                 <path d="M 0 45 v 10 h 30 v -10" stroke="#f35" stroke-width="3" fill="none" />
                 <path d="M 0 45 l -15 10 l -15 -10" stroke="#04f" stroke-width="3" fill="none" />
@@ -257,4 +257,5 @@
             </text>
         </g>
     </g>
+    <text x="350" y="450">@hsjoihs</text>
 </svg>
