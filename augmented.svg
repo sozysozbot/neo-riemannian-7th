@@ -1,9 +1,7 @@
 <svg version="1.1" viewBox="-300 -350 900 1000" xmlns="http://www.w3.org/2000/svg">
 
     <g transform="translate(150 100)">
-
-        <path stroke-dasharray="10,5" d="M 0 -350 a 350 350 0 0 1 0 700 a 350 350 0 0 1 0 -700" fill="none"
-            stroke="#f9a" stroke-width="10" />
+        <text x="300" y="370" alignment-baseline="middle" text-anchor="middle">@hsjoihs</text>
 
         <path d="m 297.1309 -254.7754 a 80 80 0 0 0 -34.0215 10.4941 l -263.1094 151.9063 l -263.1094 -151.9063 a 80 80 0 0 0 -80 138.5625 L -80 46.187 V 350 A 80 80 0 0 0 80 350 L 80 46.187 L 343.1094 -105.7189 a 80 80 0 0 0 -45.9785 -149.0566 z" style="fill:#ffff99;fill-opacity:1;stroke:#66ccff;stroke-opacity:1;stroke-width:6;stroke-dasharray:none" />
 
